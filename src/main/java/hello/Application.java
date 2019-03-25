@@ -2,7 +2,7 @@
 
 public class Application {
 	public static void main (){
-		System.out.println("Diego vente ya");
+		System.out.println("Diego vente ya. Vamos");
 	} 
 	
 }
