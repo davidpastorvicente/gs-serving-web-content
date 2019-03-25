@@ -9,8 +9,8 @@ System.out.println("RAUL EL CICLISTA");
 
 
 
-		System.out.println("Diego vente ya. Vamos");
-	
+System.out.println("Diego vente ya. Vamos");
+System.out.println("Rfa no se entera ni del clima");	
 
 }
 }
